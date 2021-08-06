@@ -1,0 +1,18 @@
+Package: aRuleNet
+Title: Estimates Dependency Networks using Association Rules
+Version: 0.0.1
+Authors@R: 
+    person(given = "Martin",
+           family = "Skogholt",
+           role = c("aut", "cre"),
+           email = "m.skogholt@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Uses Association Rules to construct dependency networks. A number
+  of new metrics are introduced to calculate the relevance of extracted rules. 
+  Moreover, a visualization suite is included to properly visualize the 
+  dependency network that is extracted. 
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
