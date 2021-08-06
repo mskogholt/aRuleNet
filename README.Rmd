@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # aRuleNet
 
 <!-- badges: start -->
+[![Codecov test coverage](https://codecov.io/gh/mskogholt/aRuleNet/branch/master/graph/badge.svg)](https://codecov.io/gh/mskogholt/aRuleNet?branch=master)
+[![Travis build status](https://travis-ci.com/mskogholt/aRuleNet.svg?branch=master)](https://travis-ci.com/mskogholt/aRuleNet)
 <!-- badges: end -->
 
 The goal of aRuleNet is to ...
