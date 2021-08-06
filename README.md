@@ -9,6 +9,7 @@
 coverage](https://codecov.io/gh/mskogholt/aRuleNet/branch/master/graph/badge.svg)](https://codecov.io/gh/mskogholt/aRuleNet?branch=master)
 [![Travis build
 status](https://travis-ci.com/mskogholt/aRuleNet.svg?branch=master)](https://travis-ci.com/mskogholt/aRuleNet)
+[![R-CMD-check](https://github.com/mskogholt/aRuleNet/workflows/R-CMD-check/badge.svg)](https://github.com/mskogholt/aRuleNet/actions)
 <!-- badges: end -->
 
 The goal of aRuleNet is to …
